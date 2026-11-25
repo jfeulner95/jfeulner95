@@ -1,0 +1,102 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="432" viewBox="0 0 840 432" role="img"
+     aria-label="Johannes Feulner – Embedded Dev &amp; AI Tinkerer">
+  <defs>
+    <linearGradient id="brand" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#38bdf8"/><stop offset="0.5" stop-color="#a78bfa"/><stop offset="1" stop-color="#f472b6"/>
+    </linearGradient>
+  </defs>
+  <style>
+    text { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Inter, Helvetica, Arial, sans-serif; fill: #e6e8ee; }
+    .mono { font-family: 'SF Mono', 'JetBrains Mono', Menlo, Consolas, monospace; }
+    .eyebrow { font-size: 11px; font-weight: 600; letter-spacing: 2px; fill: #8a8f9c; }
+    .name { font-size: 42px; font-weight: 800; letter-spacing: -1.2px; }
+    .role { font-size: 21px; font-weight: 700; fill: url(#brand); }
+    .bio { font-size: 14.5px; fill: #a3a8b4; }
+    .status { font-size: 12px; fill: #8a8f9c; }
+    .num { font-size: 36px; font-weight: 800; letter-spacing: -1px; }
+    .label { font-size: 12px; fill: #8a8f9c; }
+    .chip { font-size: 13px; font-weight: 600; fill: #e6e8ee; }
+    .big { font-size: 20px; font-weight: 800; letter-spacing: -0.4px; }
+    .wave { fill: none; stroke-width: 2.5; stroke-linejoin: round; animation: scroll 1.6s linear infinite; }
+    .tile { animation: rise .7s cubic-bezier(.2,.8,.2,1) backwards; }
+    .pulse { transform-box: fill-box; transform-origin: center; animation: pulse 2s ease-out infinite; }
+    @keyframes rise { from { opacity: 0; transform: translateY(14px); } to { opacity: 1; transform: none; } }
+    @keyframes pulse { from { transform: scale(1); opacity: .7; } to { transform: scale(3.5); opacity: 0; } }
+    @keyframes scroll { from { transform: translateX(0); } to { transform: translateX(36px); } }
+  </style>
+
+  <g class="tile" style="animation-delay:0.0s">
+    <radialGradient id="g00" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse"
+        gradientTransform="translate(0 0) scale(475.2 242.00000000000003)">
+      <stop offset="0" stop-color="#a78bfa" stop-opacity="0.22"/>
+      <stop offset="1" stop-color="#a78bfa" stop-opacity="0"/>
+    </radialGradient>
+    <rect x="0" y="0" width="528" height="220" rx="20" fill="#0f1117"/>
+    <rect x="0" y="0" width="528" height="220" rx="20" fill="url(#g00)"/>
+    <rect x="0.5" y="0.5" width="527" height="219" rx="19.5" fill="none" stroke="#ffffff" stroke-opacity="0.08"/>
+    
+    <text x="28" y="44" class="eyebrow">HELLO, I'M</text>
+    <text x="28" y="94" class="name">Johannes Feulner</text>
+    <text x="28" y="128" class="role">Embedded Dev &amp; AI Tinkerer</text>
+    <text x="28" y="164" class="bio">Embedded developer by day, AI-workflow tinkerer by night.</text>
+    <text x="28" y="186" class="bio">I like making hardware and tools talk to each other.</text>
+    <circle cx="378" cy="40" r="4" fill="#4ade80" class="pulse"/>
+    <circle cx="378" cy="40" r="4" fill="#4ade80"/>
+    <text x="390" y="44" class="status">currently tinkering</text>
+  </g>
+
+  <g class="tile" style="animation-delay:0.12s">
+    <radialGradient id="g5400" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse"
+        gradientTransform="translate(540 0) scale(270.0 242.00000000000003)">
+      <stop offset="0" stop-color="#38bdf8" stop-opacity="0.22"/>
+      <stop offset="1" stop-color="#38bdf8" stop-opacity="0"/>
+    </radialGradient>
+    <rect x="540" y="0" width="300" height="220" rx="20" fill="#0f1117"/>
+    <rect x="540" y="0" width="300" height="220" rx="20" fill="url(#g5400)"/>
+    <rect x="540.5" y="0.5" width="299" height="219" rx="19.5" fill="none" stroke="#ffffff" stroke-opacity="0.08"/>
+    <text x="564" y="44" class="eyebrow">GITHUB · LIVE</text><text x="564.0" y="104" class="num">80</text><text x="564.0" y="124" class="label">contributions · 1y</text><text x="706.0" y="104" class="num">28</text><text x="706.0" y="124" class="label">public repos</text><text x="564.0" y="178" class="num">4</text><text x="564.0" y="198" class="label">years on GitHub</text><text x="706.0" y="178" class="num">5</text><text x="706.0" y="198" class="label">followers</text><text x="820" y="44" class="label" text-anchor="end">2026-11-25</text>
+  </g>
+
+  <g class="tile" style="animation-delay:0.24s">
+    <radialGradient id="g0232" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse"
+        gradientTransform="translate(0 232) scale(297.0 220.00000000000003)">
+      <stop offset="0" stop-color="#5c9eff" stop-opacity="0.22"/>
+      <stop offset="1" stop-color="#5c9eff" stop-opacity="0"/>
+    </radialGradient>
+    <rect x="0" y="232" width="330" height="200" rx="20" fill="#0f1117"/>
+    <rect x="0" y="232" width="330" height="200" rx="20" fill="url(#g0232)"/>
+    <rect x="0.5" y="232.5" width="329" height="199" rx="19.5" fill="none" stroke="#ffffff" stroke-opacity="0.08"/>
+    <text x="24" y="270" class="eyebrow">LANGUAGES</text><rect x="24" y="292" width="46" height="32" rx="16" fill="#ffffff" fill-opacity="0.05" stroke="#ffffff" stroke-opacity="0.08"/><circle cx="40" cy="308" r="4.5" fill="#5c9eff"/><text x="52" y="313" class="chip mono">C</text><rect x="78.2" y="292" width="63" height="32" rx="16" fill="#ffffff" fill-opacity="0.05" stroke="#ffffff" stroke-opacity="0.08"/><circle cx="94.2" cy="308" r="4.5" fill="#f34b7d"/><text x="106.2" y="313" class="chip mono">C++</text><rect x="148.8" y="292" width="87" height="32" rx="16" fill="#ffffff" fill-opacity="0.05" stroke="#ffffff" stroke-opacity="0.08"/><circle cx="164.8" cy="308" r="4.5" fill="#ffd43b"/><text x="176.8" y="313" class="chip mono">Python</text><rect x="24" y="334" width="79" height="32" rx="16" fill="#ffffff" fill-opacity="0.05" stroke="#ffffff" stroke-opacity="0.08"/><circle cx="40" cy="350" r="4.5" fill="#f05138"/><text x="52" y="355" class="chip mono">Swift</text><rect x="111.0" y="334" width="71" height="32" rx="16" fill="#ffffff" fill-opacity="0.05" stroke="#ffffff" stroke-opacity="0.08"/><circle cx="127.0" cy="350" r="4.5" fill="#4ade80"/><text x="139.0" y="355" class="chip mono">Bash</text><rect x="189.8" y="334" width="87" height="32" rx="16" fill="#ffffff" fill-opacity="0.05" stroke="#ffffff" stroke-opacity="0.08"/><circle cx="205.8" cy="350" r="4.5" fill="#3b9be0"/><text x="217.8" y="355" class="chip mono">Matlab</text><rect x="24" y="376" width="104" height="32" rx="16" fill="#ffffff" fill-opacity="0.05" stroke="#ffffff" stroke-opacity="0.08"/><circle cx="40" cy="392" r="4.5" fill="#22d3ee"/><text x="52" y="397" class="chip mono">Simulink</text>
+  </g>
+
+  <g class="tile" style="animation-delay:0.36s">
+    <radialGradient id="g342232" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse"
+        gradientTransform="translate(342 232) scale(297.0 220.00000000000003)">
+      <stop offset="0" stop-color="#f472b6" stop-opacity="0.22"/>
+      <stop offset="1" stop-color="#f472b6" stop-opacity="0"/>
+    </radialGradient>
+    <rect x="342" y="232" width="330" height="200" rx="20" fill="#0f1117"/>
+    <rect x="342" y="232" width="330" height="200" rx="20" fill="url(#g342232)"/>
+    <rect x="342.5" y="232.5" width="329" height="199" rx="19.5" fill="none" stroke="#ffffff" stroke-opacity="0.08"/>
+    <text x="366" y="270" class="eyebrow">PLATFORMS &amp; TOOLS</text><rect x="366" y="292" width="76" height="32" rx="16" fill="#ffffff" fill-opacity="0.05" stroke="#ffffff" stroke-opacity="0.08"/><circle cx="382" cy="308" r="4.5" fill="#fbbf24"/><text x="394" y="313" class="chip">Linux</text><rect x="450.0" y="292" width="76" height="32" rx="16" fill="#ffffff" fill-opacity="0.05" stroke="#ffffff" stroke-opacity="0.08"/><circle cx="466.0" cy="308" r="4.5" fill="#e5e7eb"/><text x="478.0" y="313" class="chip">macOS</text><rect x="534.0" y="292" width="91" height="32" rx="16" fill="#ffffff" fill-opacity="0.05" stroke="#ffffff" stroke-opacity="0.08"/><circle cx="550.0" cy="308" r="4.5" fill="#38bdf8"/><text x="562.0" y="313" class="chip">Windows</text><rect x="366" y="334" width="84" height="32" rx="16" fill="#ffffff" fill-opacity="0.05" stroke="#ffffff" stroke-opacity="0.08"/><circle cx="382" cy="350" r="4.5" fill="#2496ed"/><text x="394" y="355" class="chip">Docker</text><rect x="457.6" y="334" width="84" height="32" rx="16" fill="#ffffff" fill-opacity="0.05" stroke="#ffffff" stroke-opacity="0.08"/><circle cx="473.6" cy="350" r="4.5" fill="#9ca3af"/><text x="485.6" y="355" class="chip">GitHub</text><rect x="549.2" y="334" width="84" height="32" rx="16" fill="#ffffff" fill-opacity="0.05" stroke="#ffffff" stroke-opacity="0.08"/><circle cx="565.2" cy="350" r="4.5" fill="#fc6d26"/><text x="577.2" y="355" class="chip">GitLab</text><rect x="366" y="376" width="84" height="32" rx="16" fill="#ffffff" fill-opacity="0.05" stroke="#ffffff" stroke-opacity="0.08"/><circle cx="382" cy="392" r="4.5" fill="#10a37f"/><text x="394" y="397" class="chip">OpenAI</text><rect x="457.6" y="376" width="122" height="32" rx="16" fill="#ffffff" fill-opacity="0.05" stroke="#ffffff" stroke-opacity="0.08"/><circle cx="473.6" cy="392" r="4.5" fill="#d97757"/><text x="485.6" y="397" class="chip">Claude Code</text>
+  </g>
+
+  <g class="tile" style="animation-delay:0.48s">
+    <radialGradient id="g684232" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse"
+        gradientTransform="translate(684 232) scale(140.4 220.00000000000003)">
+      <stop offset="0" stop-color="#4ade80" stop-opacity="0.22"/>
+      <stop offset="1" stop-color="#4ade80" stop-opacity="0"/>
+    </radialGradient>
+    <rect x="684" y="232" width="156" height="200" rx="20" fill="#0f1117"/>
+    <rect x="684" y="232" width="156" height="200" rx="20" fill="url(#g684232)"/>
+    <rect x="684.5" y="232.5" width="155" height="199" rx="19.5" fill="none" stroke="#ffffff" stroke-opacity="0.08"/>
+    
+    <clipPath id="wclip"><rect x="684" y="232" width="156" height="200" rx="20"/></clipPath>
+    <text x="708" y="270" class="eyebrow">SIGNAL</text>
+    <g clip-path="url(#wclip)">
+      <path d="M612,322 V286 H630.0 V322 H648 V286 H666.0 V322 H684 V286 H702.0 V322 H720 V286 H738.0 V322 H756 V286 H774.0 V322 H792 V286 H810.0 V322 H828 V286 H846.0 V322 H864 V286 H882.0 V322 H900 V286 H918.0 V322 H936 V286 H954.0 V322 H972 V286 H990.0 V322 H1008 V286 H1026.0 V322 H1044" class="wave" stroke="url(#brand)"/>
+    </g>
+    <text x="708" y="386" class="big">bits → bots</text>
+    <text x="708" y="408" class="label">embedded meets AI</text>
+  </g>
+</svg>
