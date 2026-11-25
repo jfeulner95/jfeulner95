@@ -44,6 +44,10 @@ PROFILE = {
          "cli · slash commands · shortcuts · mcp · hooks", "#d97757"),
         ("git-cheat-sheet", "Git, from first clone to rebase.",
          "branches · merge & rebase · undo · stash · tags", "#f472b6"),
+        ("ClaudeCodeSkillSummary", "The best Claude Code skills, in one place.",
+         "skills · plugins · one-line install · updates", "#a78bfa"),
+        ("jfeulner95", "This profile – generated, not drawn.",
+         "python · svg · github actions · nightly stats", "#38bdf8"),
     ],
 }
 # ─────────────────────────────────────────────────────────────────────────────

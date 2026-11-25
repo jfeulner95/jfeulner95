@@ -13,3 +13,14 @@
     <img src="./assets/project-git-cheat-sheet-light.svg" alt="git-cheat-sheet – Git, from first clone to rebase." width="49%" />
   </picture></a>
 </p>
+
+<p align="center">
+  <a href="https://github.com/jfeulner95/ClaudeCodeSkillSummary"><picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/project-ClaudeCodeSkillSummary-dark.svg" />
+    <img src="./assets/project-ClaudeCodeSkillSummary-light.svg" alt="ClaudeCodeSkillSummary – The best Claude Code skills, in one place." width="49%" />
+  </picture></a>
+  <a href="https://github.com/jfeulner95/jfeulner95"><picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/project-jfeulner95-dark.svg" />
+    <img src="./assets/project-jfeulner95-light.svg" alt="jfeulner95 – This profile, generated, not drawn." width="49%" />
+  </picture></a>
+</p>
