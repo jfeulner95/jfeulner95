@@ -36,6 +36,6 @@
     <text x="24" y="74" class="repo">jfeulner95</text>
     <text x="24" y="100" class="tag">This profile – generated, not drawn.</text>
     <text x="24" y="122" class="topics mono">python · svg · github actions · nightly stats</text>
-    <circle cx="29" cy="142" r="5" fill="#ffd43b"/><text x="40" y="146" class="label">Python</text><text x="390" y="146" class="label" text-anchor="end">updated today</text>
+    <circle cx="29" cy="142" r="5" fill="#ffd43b"/><text x="40" y="146" class="label">Python</text><text x="390" y="146" class="label" text-anchor="end">updated yesterday</text>
   </g>
 </svg>

@@ -36,6 +36,6 @@
     <text x="24" y="74" class="repo">git-cheat-sheet</text>
     <text x="24" y="100" class="tag">Git, from first clone to rebase.</text>
     <text x="24" y="122" class="topics mono">branches · merge &amp; rebase · undo · stash · tags</text>
-    <circle cx="29" cy="142" r="5" fill="#4ade80"/><text x="40" y="146" class="label">Shell</text><text x="390" y="146" class="label" text-anchor="end">updated today</text>
+    <circle cx="29" cy="142" r="5" fill="#4ade80"/><text x="40" y="146" class="label">Shell</text><text x="390" y="146" class="label" text-anchor="end">updated yesterday</text>
   </g>
 </svg>
