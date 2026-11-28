@@ -36,6 +36,6 @@
     <text x="24" y="74" class="repo">claude-cheat-sheet</text>
     <text x="24" y="100" class="tag">Claude Code on one page.</text>
     <text x="24" y="122" class="topics mono">cli · slash commands · shortcuts · mcp · hooks</text>
-    <circle cx="29" cy="142" r="5" fill="#4ade80"/><text x="40" y="146" class="label">Shell</text><text x="390" y="146" class="label" text-anchor="end">updated 2 days ago</text>
+    <circle cx="29" cy="142" r="5" fill="#4ade80"/><text x="40" y="146" class="label">Shell</text><text x="390" y="146" class="label" text-anchor="end">updated 3 days ago</text>
   </g>
 </svg>
